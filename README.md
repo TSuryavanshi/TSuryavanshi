@@ -6,7 +6,7 @@
 ## ✨ About Me:
 
 💻 I'm a CS student<br>
-🧩 I enjoy learning while solving problems that lead to knowledge<br>
+🧩 I enjoy problem solving <br>
 📐 I love to learn through implementation<br>
 📱 I'm currently studying Deep Learning (Computer Vision)<br>
 🎨 I also create realism art<br>
