@@ -6,11 +6,11 @@
 ## ✨ About Me:
 
 💻 I'm a CS student<br>
-🧩 I enjoy problem solving and project building<br>
+🧩 I enjoy learning while solving problems that lead to knowledge<br>
 📐 I love to learn through implementation<br>
-📱 I'm currently learning Mobile App Development<br>
-🎨 I also create art and share it on Instagram<br>
-🗨️ I like to read (currently reading, The Diary of a CEO)
+📱 I'm currently studying Deep Learning (Computer Vision)<br>
+🎨 I also create realism art<br>
+🗨️ I like to read! (currently reading, The Diary of a CEO)
 
 ---
 
