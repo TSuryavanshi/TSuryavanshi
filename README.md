@@ -1,5 +1,4 @@
-![cool](https://github.com/user-attachments/assets/97c862ed-47e7-4378-b430-ded57d348a13)
-
+![pixel](https://github.com/user-attachments/assets/afdfe044-0fcd-46d8-8c34-7f4e8096470c)
 
 # 💫 Hii, I'm Tanvi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 
