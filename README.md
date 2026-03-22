@@ -18,22 +18,5 @@
 
 ---
 
-<picture width="1080px">
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
-
----
-
 ### 🌟 Holopin Board 2024
 [![An image of @tanvicodeseveryday's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tanvicodeseveryday)](https://holopin.io/@tanvicodeseveryday)
